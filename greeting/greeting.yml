@@ -2,6 +2,6 @@ server:
   port: 9090
 greeting: RAMRAM
 greetings:
-  EN: Hello
+  EN: Hi
   ES: Hola
   DE: Hallo
