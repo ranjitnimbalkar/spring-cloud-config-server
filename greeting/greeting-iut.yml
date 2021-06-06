@@ -2,6 +2,6 @@ server:
   port: 9090
 greeting: Hello
 greetings:
-  EN: IUT Hello
+  EN: IUT Hi
   ES: IUT Hola
   DE: IUT Hallo
